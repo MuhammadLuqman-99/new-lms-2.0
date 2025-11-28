@@ -1,0 +1,8 @@
+{
+  "name": "Nebula AI",
+  "description": "A production-ready AI LLM platform featuring chat, code generation, and comprehensive dashboard analytics.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
